@@ -1,0 +1,16 @@
+<DOCTYPE!html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div  class="title">
+        <h1>my space page</h1>
+     Welcome to my corner of the galaxy    
+</div>
+<h2>Fun space facts</h2>
+<br>
+The sun is so big that 1million earths could fit inside it.
+    </body>
+</html>
+<link rel="stylesheet" href="style.css">
